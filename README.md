@@ -4,11 +4,11 @@
 
 ##### 开发环境：
 
-vscode+vim
+vscode + vim
 
 语言主要为Go
 
-Windows & Linux & macOS
+Windows  |  Linux |  macOS
 
 ##### 爱好：
 - 👨🏻‍💻coding(backend)
