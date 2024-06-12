@@ -1,12 +1,14 @@
 ##### 简介：
 
-cqupt27届gopher,interested in OS & backend now
+重庆邮电大学27届软件工程 , interested in OS & backend now
 
 ##### 开发环境：
 
 vscode+vim
 
 语言主要为Go
+
+Windows & Linux & macOS
 
 ##### 爱好：
 - 👨🏻‍💻coding(backend)
